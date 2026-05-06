@@ -55,27 +55,11 @@ cd Roleta-Sorteio
 
 3. Abra o arquivo `index.html` no navegador
 
-Pronto, já dá pra sair girando a roleta igual cassino (só que sem perder dinheiro 👍)
-
 ---
 
 ## 🧠 Como funciona
 
 Você adiciona os itens na lista, clica pra girar e o sistema escolhe um resultado aleatório.
-
-Por baixo dos panos, normalmente isso usa:
-
-* `Math.random()` (ou similar)
-* distribuição uniforme (todo mundo com a mesma chance)
-
-Ou seja: sem marmelada.
-
----
-
-## 📷 Preview
-
-*(coloca um print aqui depois se quiser deixar mais bonito)*
-
 ---
 
 ## 📌 Possíveis melhorias
@@ -104,5 +88,3 @@ Uso livre pra estudo e projetos pessoais.
 
 Projeto simples, focado em aprendizado e uso casual.
 Não usar pra sorteios oficiais (tipo promoção com prêmio grande), porque aí entra regra e legislação.
-
-[1]: https://centraldecalculadoras.com.br/utilidades/roleta?utm_source=chatgpt.com "Roleta Online: sorteio com roleta virtual grátis | Calculadoras Online"
