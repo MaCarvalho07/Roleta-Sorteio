@@ -15,7 +15,7 @@ Esse tipo de ferramenta é comum pra:
 * brindes ou eventos
 * uso em lives / streams
 
-No geral, funciona com base em aleatoriedade, garantindo que todo mundo tenha a mesma chance. ([Central de Calculadoras][1])
+No geral, funciona com base em aleatoriedade, garantindo que todo mundo tenha a mesma chance.
 
 ---
 
